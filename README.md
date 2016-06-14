@@ -1,3 +1,5 @@
+# THIS IS A ONE OFF VERSION FROM MASTER, WE NEEDED DIFFERENT FUNCTIONALITY AND CANNOT AND SHOULD NOT BE MERGED BACK UPSTREAM.
+
 # lein-wsimport
 
 A Leiningen plugin to utilize the JDK's [`wsimport`](http://docs.oracle.com/javase/6/docs/technotes/tools/share/wsimport.html) task from a Leiningen project.
