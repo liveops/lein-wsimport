@@ -1,4 +1,4 @@
-(defproject lein-wsimport "1.1.0-SNAPSHOT"
+(defproject liveops/lein-wsimport "2.0.0"
   :description "JAX-WS import plugin for Clojure projects"
   :url "https://github.com/klauern/lein-wsimport"
   :dependencies [[com.sun.xml.ws/jaxws-tools "2.2.8"]]
